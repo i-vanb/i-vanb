@@ -9,6 +9,7 @@ I'm a frontend-focused software engineer working across product design, frontend
 ### Products I've Built
 
 - **[INSINTA](https://insinta.com)** — My B2B SaaS product for giving physical assets persistent digital identities, structured operational data, and accountable history. I own it end to end, including UX, frontend and backend architecture, business workflows, and production infrastructure. The product code is private.
+- **ThirdSide** *(private prototype)* — An AI-assisted application that helps two people work through disagreements using private perspectives, shared analysis, and mutually confirmed agreements. Built with React, Capacitor, NestJS, and PostgreSQL.
 - **[LEGENTEDDY](https://legenteddy.com)** — A customer-facing commercial website for a collectible artist-bear brand. I am responsible for its technical side: frontend, backend, custom content management, administrative workflows, infrastructure, and production deployment, with a focus on UX and visual quality.
 
 ### Selected Engineering Work
